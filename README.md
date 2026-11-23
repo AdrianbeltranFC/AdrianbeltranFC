@@ -57,5 +57,5 @@ I build **Edge AI systems, Computer Vision pipelines, and biomedical hardware**�
 
 ---
 
-### 📊 GitHub Activity
-![Adrián's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianbeltranFC&show_icons=true&theme=transparent&hide_border=true)
+### 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianbeltranFC&layout=compact&theme=transparent&hide_border=true)
